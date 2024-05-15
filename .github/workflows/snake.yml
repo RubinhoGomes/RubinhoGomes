@@ -20,7 +20,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4.1.5
       with:
-        node-version: '20'
+        node-version: '16'
 
     # Generate Snake GIF and SVG
     - name: Generate Snake GIF and SVG
@@ -40,7 +40,7 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+        branch: main
         force: true
 
     # Deploy to GitHub Pages
