@@ -16,23 +16,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+    # Checkout repository with Node.js 20
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        node-version: '20'
 
-    # Repositorio que será utilizado para gerar os arquivos.
+    # Generate Snake GIF and SVG
     - name: Generate Snake GIF and SVG
       id: snake-gif
       uses: Platane/snk@master
       with:
-        github_user_name: RubinhoGomes
+        github_user_name: RubinhoGomes # Replace with your GitHub username
         gif_out_path: dist/github-contribution-grid-snake.gif
         svg_out_path: dist/github-contribution-grid-snake.svg
 
+    # Check Git status
     - name: Check Git status
       run: git status
 
-    # Para as atualizações.
+    # Push changes
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
@@ -40,6 +43,7 @@ jobs:
         branch: master
         force: true
 
+    # Deploy to GitHub Pages
     - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@v4.0.0
       with:
