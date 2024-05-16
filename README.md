@@ -37,9 +37,9 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 ## <!-- <img src=" " width="50px" height="50px">-->:telephone: Contacts
 
 <!-- LinkedIn -->
-<a href=""> <img src="https://skillicons.dev/icons?i=Linkedin"/> </a>
+<a href=""> <img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <!-- Discord -->
-<a href=""> <img src="https://skillsicons.dev/icons?i=discord" /> </a>
+<a href=""> <img src="https://skillsicons.dev/icons?i=discord" /></a>
 <!-- Instagram -->
 <!-- X / Twitter -->
 <!-- My Portefolio -->
