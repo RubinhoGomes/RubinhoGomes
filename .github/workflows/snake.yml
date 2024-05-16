@@ -26,9 +26,8 @@ jobs:
       uses: Platane/snk@master
       with:
         github_user_name: RubinhoGomes # Replace with your GitHub username
-        gif_out_path: dist/github-contribution-grid-snake.gif
-        svg_out_path: dist/github-contribution-grid-snake.svg
-
+        outputs: dist/snake.svg?pallete=github-dark 
+        
     # Check Git status
     - name: Check Git status
       run: git status
