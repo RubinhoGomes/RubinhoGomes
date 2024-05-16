@@ -41,6 +41,6 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RubinhoGomes/RubinhoGomes/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+<img src="https://raw.githubusercontent.com/RubinhoGomes/RubinhoGomes/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 
 </div>
