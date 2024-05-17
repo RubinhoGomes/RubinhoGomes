@@ -35,7 +35,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 <!-- Contacts, same as before, search the icon add the respective information and make sure everything is running well -->
 
 ## <!-- <img src=" " width="50px" height="50px">-->:telephone: Contacts
-
+<div align="center">
 <!-- LinkedIn -->
 <a href=""> <img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <!-- Discord -->
@@ -43,10 +43,9 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 <!-- Instagram -->
 <!-- X / Twitter -->
 <!-- My Portefolio -->
-
+</div>
 
 <!-- Snake Game -->
-
 
 <img src="https://raw.githubusercontent.com/RubinhoGomes/RubinhoGomes/output/snake.svg" alt="Snake Game"/>
 
