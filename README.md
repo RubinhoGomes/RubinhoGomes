@@ -15,7 +15,7 @@
 
 <!-- Add the Statistic-->
 
-## <img src="https://giphy.com/embed/H4cBu6XqKJtGujEXll" width="50px" height="50px" /> My Statistics:
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI5d2V3NXBnbHE0N2x5emlyNm9mdHl1bzBkZXlvMzFoam81bDd0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/H4cBu6XqKJtGujEXll/giphy.gif" width="50px" height="50px" /> My Statistics:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RubinhoGomes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RubinhoGomes&theme=vue-dark&hide_border=true" />
@@ -34,7 +34,7 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
 <!-- Contacts, same as before, search the icon add the respective information and make sure everything is running well -->
 
-## <img src="https://giphy.com/embed/VIWVhLsuxwBPtLYX8k" width="50px" height="50px" /> Contacts
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl4MTIybmQ4YTR4N3Q2MnpiN252YXZ0dzh5bnB3ZmYxMWowajFmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VIWVhLsuxwBPtLYX8k/giphy.gif" width="50px" height="50px" /> Contacts
 <div align="center">
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/r%C3%BAben-gomes-b25a9a295/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
