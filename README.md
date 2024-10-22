@@ -11,7 +11,7 @@
 - :school: Studying Programing on **IPL, Leiria**
 - :innocent: Intermidiate at Programing :penguin:
 - :cookie: Interested in Studying, Programming, Gaming and Snooker
-- :dollar: `Innovations Starts With Code `
+- :dollar: `Built to solve, designed to evolve.`
 
 <!-- Add the Statistic-->
 
