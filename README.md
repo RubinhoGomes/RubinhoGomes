@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=rubinhogomes&label=Profile%20views&color=ff69b4&style=plastic" />
-
 # <p align="center"> :spades: :hearts: :clubs: :diamonds: </p>
 
 <div align="center">
